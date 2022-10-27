@@ -6,6 +6,6 @@
 //OpenXR Header
 #include <openxr/openxr.h>
 // Dragon Backend header
-#include <dragon/dg_backend.hpp>
+#include <dragon/backend.hpp>
 
 #include "init.hpp"
